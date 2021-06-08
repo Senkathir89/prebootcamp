@@ -1,0 +1,24 @@
+body{
+     margin:2px;
+    background-color:pink;
+    font-family: 'Dancing Script', cursive;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size:x-large;
+   }
+  .design{
+    border-radius:10px;
+    border-color:white;
+  }
+  .star{
+    color:red;
+  }
+  .button2{
+    background-color:Red;
+  }
+  .button1{
+    background-color:Yellow;
+  }
+  
+  
